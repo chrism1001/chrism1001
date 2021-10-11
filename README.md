@@ -1,4 +1,4 @@
 - 👋 Hello, my name is Christopher Mejia. I am a student at New Jersey Institute of Technology, major in Computer Science.
 - 👀 I’m interested in learning and improving.
-- 🌱 I’m currently learning Java and Python.
-- 📫 How to reach me @ https://www.linkedin.com/in/christopher-mejia-b4506218a/.
+- 🌱 I’m currently learning Java, Python, Javascript, HTML, CSS, and C++.
+- 📫 How to reach me @ https://www.linkedin.com/in/christopher-mejia-cs/.
